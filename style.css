@@ -492,7 +492,7 @@ xclip
 }
 
 .section.db {
-    background-color: #111111;
+    background-color: #051e35;
 }
 
 .section.color1 {
@@ -558,7 +558,7 @@ xclip
 
 .section.colorsection p,
 .section.colorsection h3,
-.section.db h3 {
+.section.db h3,p,a {
     color: #ffffff;
 }
 
