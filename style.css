@@ -2302,8 +2302,8 @@ select.mobile-device {
 
 .footer {
     padding: 90px 0 80px !important;
-    color: #999;
-    background-color: #1f1f1f;
+    color: #fff;
+    background-color: #203442;
 }
 
 .footer .widget-title {
@@ -2375,7 +2375,7 @@ select.mobile-device {
 
 .copyrights {
     border-top: 1px dashed rgba(255, 255, 255, 0.1);
-    background-color: #1f1f1f;
+    background-color: #203442;
     box-sizing: border-box;
     width: 100%;
     text-align: left;
