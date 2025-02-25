@@ -1977,7 +1977,7 @@ hr.invis1 {
 }
 
 .bootstrap-select.btn-group .dropdown-menu {
-    border: 1px solid #ededed;
+    border: 1px solid #1c1c1c;
     box-shadow: none;
     box-sizing: border-box;
     min-width: 100%;
@@ -2206,7 +2206,7 @@ select.mobile-device {
 }
 
 .contact_form {
-    border: 1px solid #ededed;
+    border: 1px solid #1c1c1c;
     box-shadow: 0 5px 14px rgba(0, 0, 0, 0.1);
     background-color: #f2f3f5;
     padding: 40px 30px;
