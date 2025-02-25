@@ -35,13 +35,7 @@ html, body{
 }
 
 body.demos .section {
-    /* background: url(images/bg.png) repeat top center #f2f3f5; */
-    background-image: url('images/bg.png'); /* Adjust the path as needed */
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    height: 100vh; /* Ensures the body takes up the full height of the viewport */
-    margin: 0; /* Removes default margin */
+    background: url(images/bg.png) repeat top center #f2f3f5;
 }
 
 body.demos .section-title img {
