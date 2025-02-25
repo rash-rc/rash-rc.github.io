@@ -304,9 +304,6 @@ a img.aligncenter {
     HEADER
 -------------------------------------------------------------------*/
 
-.navbar-dark{
-
-}
 
 .navbar-dark .navbar-nav .nav-link{
 	color: #ffffff;
@@ -2298,7 +2295,7 @@ select.mobile-device {
     font-weight: 400;
     font-size: 20px;
     text-transform: capitalize;
-    line-height: !important;
+    line-height: 1.5 !important;
 }
 
 .footer {
@@ -2544,7 +2541,7 @@ select.mobile-device {
     color: #999 !important;
     margin: 0 !important;
     padding: 0 !important;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 .stat-wrap p {
@@ -2553,7 +2550,7 @@ select.mobile-device {
     margin: 0;
     font-weight: 300;
     padding: 4px 0 0;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 #preloader {
@@ -2926,7 +2923,7 @@ Works
   font-weight: 900;
   font-size: 1.2rem;
   line-height: 1.5rem;
-  *color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 0.7);
   color: white;
 }
 
@@ -2947,6 +2944,7 @@ Works
   }
   .portfolio-item .caption {
     -webkit-transition: -webkit-clip-path 0.25s ease-out, background-color 0.25s; /*0.7*/
+    transition: clip-path 0.25s ease-out, background-color 0.25s;
     -webkit-clip-path: inset(0px);
     clip-path: inset(0px);
   }
@@ -2962,6 +2960,7 @@ Works
   }
   .portfolio-item img {
     -webkit-transition: -webkit-clip-path 0.25s ease-out;
+    transition: clip-path 0.25s ease-out;
     -webkit-clip-path: inset(-1px);
     clip-path: inset(-1px);
   }
