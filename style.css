@@ -24,7 +24,7 @@
 -------------------------------------------------------------------*/
 
 body {
-    color: #c8dbfa;
+    color: #0f0f0f; /*0f0f0f - c8dbfa*/
     font-size: 14px;
     font-family: 'Roboto Mono', monospace;
     line-height: 1.80857;
@@ -2498,7 +2498,7 @@ select.mobile-device {
 }
 
 .skills h3 {
-    color: #c8dbfa;
+    color: #0f0f0f;
     font-size: 15px;
 }
 
