@@ -379,6 +379,7 @@ a img.aligncenter {
 	text-transform: uppercase;
 }
 .heading p{
+    color: #ffffff;
 	font-size: 18px;
 	padding: 20px 50px 20px;
 }
@@ -1333,7 +1334,7 @@ body {
 }
 
 .service-widget h3 a,
-.section.wb .service-widget h3,
+.section.wb .service-widget h3,p
 .section.lb .service-widget h3,p {
     color: #1f1f1f;
 }
