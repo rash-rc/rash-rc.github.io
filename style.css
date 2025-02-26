@@ -1366,6 +1366,7 @@ body {
 
 .message-box p {
     margin-bottom: 20px;
+    color: #000;
 }
 
 .message-box .lead {
