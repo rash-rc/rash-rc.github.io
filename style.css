@@ -1364,7 +1364,7 @@ body {
     text-transform: none;
 }
 
-.message-box p {
+.message-box p,li {
     margin-bottom: 20px;
     color: #000;
 }
