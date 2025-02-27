@@ -940,7 +940,7 @@ body {
 
 .da-thumbs .pitem a div h3 small {
     display: block;
-    color: #ffffff;
+    color: #000;
     margin-top: 5px;
     font-size: 13px;
     font-weight: 300;
