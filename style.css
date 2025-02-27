@@ -561,7 +561,7 @@ xclip
 .section.colorsection p,
 .section.colorsection h3,
 .section.db h3,p,a {
-    color: #ffffff;
+    color: #000; /*#ffffff;*/
 }
 
 
