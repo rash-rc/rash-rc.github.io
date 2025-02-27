@@ -542,7 +542,7 @@ xclip
 }
 
 .section-title p {
-    color: #fff;
+    color: #000;
     font-weight: 400;
     font-size: 18px;
     line-height: 33px;
@@ -561,7 +561,7 @@ xclip
 .section.colorsection p,
 .section.colorsection h3,
 .section.db h3,p,a {
-    color: #000; /*#ffffff;*/
+    color: #ffffff;
 }
 
 
