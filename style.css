@@ -150,6 +150,10 @@ a,
     transition: all .3s ease-in-out;
 }
 
+.justified-text {
+    text-align: justify;
+}
+
 .btn-custom {
     margin-top: 20px;
     background-color: transparent !important;
