@@ -2934,13 +2934,13 @@ Works
 }
 
 .portfolio-item .caption .caption-content h4 {
-  color: #fcbc1d;
+  color: white;
   font-size:1.5rem;
   font-weight: bold;
 
 }
 .portfolio-item:hover .caption .caption-content h4 {
-  color: #fcbc1d;
+  color: white/*#fcbc1d*/;
 }
 
 @media (min-width: 992px) {
@@ -2975,7 +2975,7 @@ Works
     clip-path: inset(1rem);
   }
   .portfolio-item:hover .caption {
-    background-color: rgba(41, 136, 188, 0.9); /*rgba(29, 128, 159, 0.9)*/
+    background-color: #203442; /*rgba(1, 19, 29, 0.9); rgba(29, 128, 159, 0.9)*/
     -webkit-clip-path: inset(1rem);
     clip-path: inset(1rem);
   }
